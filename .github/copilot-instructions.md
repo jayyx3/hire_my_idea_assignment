@@ -21,4 +21,5 @@
 
 - [ ] Launch the Project
 
-- [ ] Ensure Documentation is Complete
+- [x] Ensure Documentation is Complete
+  - Summary: README updated and HTML comments removed.
